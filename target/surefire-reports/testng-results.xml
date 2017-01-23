@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="46146" started-at="2017-01-23T09:16:03Z" finished-at="2017-01-23T09:16:49Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="46146" started-at="2017-01-23T09:16:03Z" finished-at="2017-01-23T09:16:49Z">
+      <class name="com.globusfashion.test.GlobusHomeTest">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:com.globusfashion.test.GlobusHomeTest@2d6e8792]" name="testHome" duration-ms="46124" started-at="2017-01-23T14:46:03Z" finished-at="2017-01-23T14:46:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+      </class> <!-- com.globusfashion.test.GlobusHomeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
